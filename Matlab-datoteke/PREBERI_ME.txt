@@ -1,0 +1,3 @@
+Funkcija oz. datoteka main_risanjeBezierovihKrivulj.m pri pogonu izbriše vse globalne spremenljivke.
+V primeru, da imate shranjene katire koli globalne sprem. funkcije ne poganjati. 
+
